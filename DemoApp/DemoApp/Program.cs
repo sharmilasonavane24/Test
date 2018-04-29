@@ -6,7 +6,7 @@ namespace DemoApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Dev Changes");
+            Console.WriteLine("Hello World! Dev Changes! Hot Fix");
             Console.ReadLine();
         }
     }
